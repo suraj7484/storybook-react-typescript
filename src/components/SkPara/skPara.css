@@ -1,0 +1,27 @@
+.storybook-para{
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  display: inline-block;
+  line-height: 1;
+  margin: 0;
+}
+
+.storybook-para--xs {
+    font-size: 16px;
+    margin: 8px;
+}
+.storybook-para--sm {
+    font-size: 24px;
+     margin: 12px;
+}
+.storybook-para--md {
+    font-size: 32px;
+     margin: 16px; 
+}
+.storybook-para--lg {
+    font-size: 40px;
+     margin: 20px;
+}
+.storybook-para--xl {
+    font-size: 48px;
+     margin: 24px;
+}

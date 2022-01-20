@@ -1,0 +1,20 @@
+.storybook-img{
+    margin: auto 10px;
+    object-fit: contain;
+}
+
+.storybook-img--xs{
+    width: 20px;
+}
+.storybook-img--sm{
+    width: 30px;
+}
+.storybook-img--md{
+    width: 50px;
+}
+.storybook-img--lg{
+    width: 100px;
+}
+.storybook-img--xl{
+    width: 200px;
+}
